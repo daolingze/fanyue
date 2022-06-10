@@ -517,7 +517,7 @@ BTV,#genre#
 百视通宝藏纪录片,http://bp-caster.bestv.com.cn/515/1/video.m3u8
 百视通极限挑战,http://bp-caster.bestv.com.cn/511/1/video.m3u8
 百视通音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
-相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
+
 
 
 
