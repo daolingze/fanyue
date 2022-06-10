@@ -1,27 +1,3 @@
-电视,#genre#
-CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
-开心速递,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
-上官书画坊,http://epg.112114.xyz/douyu/7923751
-有山临帖,http://epg.112114.xyz/douyu/6327572
-LOW哥开讲,http://epg.112114.xyz/douyu/1330448
-张雪峰,http://epg.112114.xyz/douyu/961020
-花安镜,http://epg.112114.xyz/douyu/11211
-真的很博通,http://epg.112114.xyz/douyu/222931
-乱炖大杀器,http://epg.112114.xyz/douyu/9592463
-古人云,http://epg.112114.xyz/douyu/9397674
-吐槽大会,http://epg.112114.xyz/douyu/9236042
-科幻F解说,http://epg.112114.xyz/douyu/3508304
-科幻战舰,http://epg.112114.xyz/douyu/8772060
-舒缓音乐,http://epg.112114.xyz/douyu/9262938
-秋水自制MV,http://epg.112114.xyz/douyu/9588891
-喵喵音乐台,http://epg.112114.xyz/douyu/9568091
-点歌台,http://epg.112114.xyz/douyu/3186217
-音乐猛抬头,http://epg.112114.xyz/douyu/8666105
-黑糖音乐秀,http://epg.112114.xyz/douyu/9560563
-音乐小魔王,http://epg.112114.xyz/douyu/9642552
-音乐台长直,http://epg.112114.xyz/douyu/9629943
-Fans小琼,http://epg.112114.xyz/douyu/8666210
-
 央视,#genre#
 CCTV-1 综合频道http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=13534c691651924942
 CCTV-1 综合频道,http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=OTT2738620220502042912053993
