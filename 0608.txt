@@ -31,17 +31,7 @@
       "ext": "https://notabug.org/pjia930/zhibo1/raw/master/0608/516-qiumi.js"
     },
     
-    {
-      "key": "csp_xpath_NBAkanqiu",
-      "name": "NBA🏀",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontentS.com/daolingze/fanyue/main/xpath/NBAkanqiu.json"
-    },
-    
+  
     {
       "key": "csp_xpath_A33",
       "name": "MTV🎸",
