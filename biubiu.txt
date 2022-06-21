@@ -1,8 +1,9 @@
 {"zhuyejiekou": [
 {"name":"躺平影视","url":"http://www.lltpys.com/xgapp.php/v1/"},
 ],  
-"zhujiexi": "https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=",
-"beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
+"zhujiexi": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=#http://api.vip123kan.vip/?url=#https://jx.parwix.com:4433/player/?url=#https://jx.parwix.com:4433/player/analysis.php?v=#https://vip.legendwhb.cn/m3u8.php?url=",
+
+"beiyongjiexi": "https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=#https://ys.ling00.cn/CL4K/?url=#https://app.okmedcos.com/4k/?url=",
 
 "dianshizhibo": "https://hk1.monika.love/airwooo/mt/main/biu/zhibo.txt",
 "caijizhan": [
