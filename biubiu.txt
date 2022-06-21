@@ -37,6 +37,8 @@
 {"name":"B站放松","fanye":"aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9NSZhcmVhX2lkPTMzOSZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui":"aHR0cDovL2Zhbmdzb25nLmxpdmUvaGxzL2JpbGkucGhwP2lkPQ=="},
 {"name":"yy轮播","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui":"aHR0cHM6Ly93d3cueXkuY29t"}
 ],
+//"lunbofanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTAwOC8=",
+//"lunboqianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8=",
 "Home": {
 "dy": {
 "class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
