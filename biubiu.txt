@@ -1,6 +1,5 @@
 {"zhuyejiekou": [
-{"name":"天空V2","url":"https://www.tkys.tv/xgapp.php/v2/"},
-{"name":"天空(M2)","url":"https://tkys.tv/xgapp.php/v1/"},
+
 ],  
 "zhujiexi": "http://api.vip123kan.vip/?url=#http://81.71.48.249:4456/jsonc/longxia.php?url=",
 
@@ -8,8 +7,7 @@
 
 "dianshizhibo": "https://hk1.monika.love/airwooo/mt/main/biu/zhibo.txt",
 "caijizhan": [
-{"name":"77","url":"http://api.kunyu77.com/api.php"},
-{"name":"293影视","url":"http://293x.yhzy.xyz/mv/api.php"}],
+{"name":"77","url":"http://api.kunyu77.com/api.php"}],
 
 
 "tiyuzhibo": "https://m.zhibo8.net",
