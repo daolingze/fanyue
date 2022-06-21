@@ -6,7 +6,10 @@
 
 "dianshizhibo": "https://hk1.monika.love/airwooo/mt/main/biu/zhibo.txt",
 "caijizhan": [
-{"name":"77","url":"http://api.kunyu77.com/api.php"}],
+{"name":"77","url":"http://api.kunyu77.com/api.php"},
+{"name":"8090采集","url":"http://zy.yilans.net:8090/api.php"},
+{"name":"小猫咪","url":"https://zy.xiaomaomi.cc/api.php"}
+],
 
 
 "tiyuzhibo": "https://m.zhibo8.net",
