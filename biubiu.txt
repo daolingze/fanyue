@@ -6,7 +6,7 @@
 
 "beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
 
-"dianshizhibo": "https://hk1.monika.love/airwooo/mt/main/biu/zhibo.txt",
+"dianshizhibo": "https://raw.githubusercontents.com/daolingze/fanyue/main/biubiu-zhibo.txt",
 "caijizhan": [
 {"name":"77","url":"http://api.kunyu77.com/api.php"},
 {"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
