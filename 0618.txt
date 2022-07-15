@@ -381,6 +381,29 @@
       "filterable": 1,
       "ext": "https://tkys.tv/xgapp.php/v1/"
     },
+    
+       {
+      "key": "csp_appysv2_jable",
+      "name": "jable",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jable.tv/404.php/"
+    },
+    
+    {
+      "key": "jable.tv",
+      "name": "jable.tv",
+      "type": 1,
+      "api": "https://jable.tv/404.php/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+  
+  
   
     {
       "key": "腾讯官网",
